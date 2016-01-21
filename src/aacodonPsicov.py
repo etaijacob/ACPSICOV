@@ -1,6 +1,6 @@
 #aacodonPsicov.py
 # PSICOVcodon - Protein Sparse Inverse COVariance analysis program for nucleotide and amino acid sequences
-# By Etai Jacob, September 2015 - Copyright (C) 2015 Etai Jacob
+# By Etai Jacob, September 2015 - Copyright (C) 2015 Etai Jacob, etai.jacob@gmail.com
 # This code is licensed under the terms of GNU General Public License v2 or later
 
 # This code was using in the following paper:
