@@ -6,7 +6,7 @@
 
    No optimizations were performed to the code.
 
-   Modifications of code by Etai Jacob, September 2015 - Copyright (C) 2015 Bar-Ilan University and Weizmann Institute of Science
+   Modifications of code by Etai Jacob, September 2015 - Copyright (C) Copyright (C) 2015 Etai Jacob
 
    This code is licensed under the terms of GNU General Public License v2 or later
 */
