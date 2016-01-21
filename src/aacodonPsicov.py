@@ -3,9 +3,21 @@
 # By Etai Jacob, September 2015 - Copyright (C) 2015 Bar-Ilan University and Weizmann Institute of Science
 # This code is licensed under the terms of GNU General Public License v2 or later
 
+# This code was using in the following paper:
+
+#Codon-level information improves predictions of inter-residue contacts in proteins by correlated mutation analysis
+
+#Etai Jacob, Ron Unger, Amnon Horovitz
+#Bar-Ilan University, Israel; Weizmann Institute of Science, Israel
+#DOI: http://dx.doi.org/10.7554/eLife.08932
+#Published September 15, 2015
+#Cite as eLife 2015;4:e08932
+#- See more at: http://elifesciences.org/content/4/e08932
+
+
 #TODOS:
-# 3. implement psicov python warapper to aacodonPsicov together
-# 4. check if the parallel version can work with the compiler
+# 3. Implement psicov python warapper to aacodonPsicov together
+# 4. Check if the parallel version can work with the compiler
 
 
 #this script takes a fasta alignment file and an sth file and creates an aln file for psicov input based on indices exclusion of a reference seq in an sth file
