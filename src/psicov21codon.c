@@ -1,10 +1,10 @@
 /* PSICOVcodon - Protein Sparse Inverse COVariance analysis program for nucleotide sequences
    This code is a modified version of PSICOV for amino acid sequences. See details below.
    The following modifications were implemented:
-   1) Codon alphabet analysis
+   1) Analysis of codon alphabet
    2) 'codonnum' function
 
-   No other optimizations were performed.
+   No optimizations were performed to the code.
 
    Modifications of code by Etai Jacob, September 2015 - Copyright (C) 2015 Bar-Ilan University and Weizmann Institute of Science
 
